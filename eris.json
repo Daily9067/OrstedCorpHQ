@@ -6,10 +6,34 @@
     "cover": "https://mangadex.org/covers/0cf4aafe-2093-417a-9303-8db8907f5210/f24a5a7e-8b82-48b7-9917-f06a48727a5b.jpg",
     "chapters": {
         "1": {
-            "title": "Untitled",
+            "title": "Click to read",
             "volume": "1",
             "groups": {
                 "Orsted Corporation": "/proxy/api/imgur/chapter/NeA1n4R/"
             },
             "last_updated":"1647680916"
+        },
+        "2": {
+            "title": "Click to read",
+            "volume": "1",
+            "groups": {
+                "Orsted Corporation": "/proxy/api/imgur/chapter/k5779qH/"
+            },
+            "last_updated":"1648890516"
+        },
+        "3": {
+            "title": "Click to read",
+            "volume": "1",
+            "groups": {
+                "Orsted Corporation": "/proxy/api/imgur/chapter/MZcckSF/"
+            },
+            "last_updated":"1650791316"
+        },
+        "4": {
+            "title": "Click to read",
+            "volume": "1",
+            "groups": {
+                "Orsted Corporation": "/proxy/api/imgur/chapter//DOZdcXk/"
+            },
+            "last_updated":"1652432916"
         }}}
